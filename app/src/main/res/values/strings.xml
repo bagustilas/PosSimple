@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PosSimple</string>
+    <string name="app_title">Pos Simple</string>
+    <string name="empty_order">Belum ada pesanan</string>
+</resources>
